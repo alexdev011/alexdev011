@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Alex 👋</h1>
+<h1 align="center">
+  <img src="https://github.com/alexdev011.png" width="115" style="border-radius: 50%; vertical-align: middle;" alt="alexdev011 avatar" /><br> align="center">
+  Hi there, I'm Alex 👋
+</h1>
 
 <p align="center">
   📍 <b>Tatarstan</b><br>
