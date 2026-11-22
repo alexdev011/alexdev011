@@ -59,3 +59,33 @@
 </details>
 
 ---
+
+### 🛠 What I Do:
+
+- 🎵 **Firmware & Embedded Audio:** Developing and modifying custom firmware for Sony Walkman digital audio players.
+- 🎨 **Image Processing & Automation:** Building desktop GUI apps in Python (PyQt6, OpenCV, ImageMagick) for automated scan cleaning, typography handling, and text typesetting.
+- 📖 **Comics & Localization:** Maintaining and curating the translation archive for Charles M. Schulz's classic *Peanuts* comic strips.
+- 🎮 **Game Dev & Modding:** Pixel art spriting, animation, and custom game modifications.
+- 🎧 **Media Archiving:** Lossless audio preservation, precision ripping, and structured archiving.
+
+---
+
+### 🚀 Featured Projects:
+
+- **[rus-peanuts-typesetter](https://github.com/alexdev011/rus-peanuts-typesetter)** — Desktop tool for automated comic strip typesetting and speech bubble cleanup:
+  - Smart bubble/SFX text detection and seamless background reconstruction.
+  - Integration with custom comic lettering fonts (*Peanuts by me*, *MP Manga Bold Shadow*).
+  - Parabolic text arching and custom curvature controls.
+  - Multi-tool utility for automated slicing, dating, and archive verification.
+
+---
+
+### 💻 Tech Stack:
+
+```text
+Languages & Frameworks:  Python (PyQt6, OpenCV, NumPy, Wand / ImageMagick, PIL), C / C++
+Packaging & VCS:         PyInstaller, Git
+Graphics & Media:        Pixel Art, Photoshop, EAC, foobar2000
+```
+
+---
